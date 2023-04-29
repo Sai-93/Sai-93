@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sai-93
+- 👀 I’m interested in programming and finance
+- 🌱 I’m currently learning a data scientist: machine learning specialist career path on CodeCademy 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: simonchiabo@gmail.com
